@@ -1,0 +1,267 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Friggeri Resume/CV
+% XeLaTeX Template
+% Version 1.0 (5/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Adrien Friggeri (adrien@friggeri.net)
+% https://github.com/afriggeri/CV
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX and the bibliography, if used,
+% needs to be compiled with biber rather than bibtex.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[]{friggeri-cv} % Add 'print' as an option into the square bracket to remove colors from this template for printing
+
+\addbibresource{bibliography.bib} % Specify the bibliography file to include publications
+
+\begin{document}
+
+\header{robert}{preissl}{lead software engineer, distributed computing specialist} % Your name and current job title/field
+
+%----------------------------------------------------------------------------------------
+%	SIDEBAR SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{aside} % In the aside, each new line forces a line break
+\section{contact}
+514 Clayton St.
+San Francisco, CA 94117
+USA
+~
++1 (925) 321 8798
+~
+\href{mailto:r\_preissl@yahoo.de}{r\_preissl@yahoo.de}
+\href{http://www.linkedin.com/pub/robert-preissl/a/66a/903/}{in://rpreissl}
+~
+\section{languages}
+\includegraphics[width=0.4cm]{Images/usflag} \hspace{0.15em} english fluency
+\includegraphics[width=0.4cm]{Images/german_flag} \hspace{0.15em} german fluency
+\includegraphics[width=0.4cm]{Images/france_flag} \hspace{0.15em} french proficiency
+\section{programming}
+{\color{red} $\varheartsuit$} C/C++
+Fortran
+{\color{red} $\varheartsuit$} Scala \& Akka
+Groovy \& Grails
+\section{skills \& interests}
+\textit{\textbf{web backend:}}
+{\color{orange}{\large{$\star$}}} Reactive
+{\color{orange}{\large{$\star$}}} Functional
+{\color{orange}{\large{$\star$}}} Event-driven
+{\color{orange}{\large{$\star$}}} Asynchronous
+{\color{orange}{\large{$\star$}}} Service oriented
+~
+\textit{\textbf{hpc:}}
+{\color{orange}{\large{$\star$}}} MPI
+{\color{orange}{\large{$\star$}}} OpenMP
+{\color{orange}{\large{$\star$}}} PGAS: UPC, CAF
+{\color{orange}{\large{$\star$}}} Parallel Algorithms
+\end{aside}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{education}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2006--2010}
+{Ph.D. {\normalfont of Computer Science}}
+{Johannes Kepler University, Linz, Austria}
+{Specialization in High Performance Computing}
+%------------------------------------------------
+\entry
+{2000--2006}
+{M.S. {\normalfont of Applied Mathematics}}
+{Johannes Kepler University, Linz, Austria}
+{Specialization in Numerical Mathematics, Financial Mathematics and Statistics}
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\section{experience}
+
+\begin{entrylist}
+%------------------------------------------------
+\entry
+{2012--Now}
+{TICKETFLY INC.}
+{San Francisco, CA, USA}
+{\emph{Lead Software Engineer, Performance Engineering} \\
+{\href{http://www.ticketfly.com/}{Ticketfly Inc., San Francisco, CA}}{}{} \\
+Performance optimization of existing backend services \& designing new
+mission critical, distributed backend services to ensure performance, growth and robustness
+of the fastest-growing independent ticketing platform in the US.}
+\vspace{0.3em}
+%------------------------------------------------
+\entry
+{2011--2012}
+{IBM RESEARCH}
+{San Jose, CA, USA}
+{\emph{Software Engineering Researcher, Research Staff Member} \\
+{\href{http://www.almaden.ibm.com/}{IBM Research Laboratory San Jose, Almaden, CA}}{}{} \\
+%Modeling, simulation and (real-time) Big Data analytics of human-scale cortical networks
+Real-time simulation of human-scale cortical networks
+using massively parallel computation techniques at the
+IBM {\href{http://www.ibm.com/smarterplanet/us/en/business_analytics/article/cognitive_computing.html}{Cognitive Computing Group}}
+\\ % at IBM Research San Jose. \\
+Lead the effort for scaling the neural simulation code, which successfully ran on up to 96
+racks of an IBM Blue Gene/Q system comprising 1.6 million processor
+cores and 1.6 PB of memory.}
+\vspace{0.3em}
+%------------------------------------------------
+\entry
+{2010-2011}
+{LAWRENCE BERKELEY NATIONAL LABORATORY (LBNL)}
+{Berkeley, CA, USA}
+{\emph{Postdoctoral Researcher} \\
+{\href{http://www.lbl.gov/}{Lawrence Berkeley National Laboratory (LBNL), USA}}{}{} \\
+Petascale Initiative Fellowship at the National Energy Research Scientific Computing Center
+(NERSC) at LBNL in collaboration with the Princeton Plasma Physics Laboratory (PPPL):
+Porting highly parallel magnetic fusion simulation codes to Petascale supercomputers.}
+\vspace{0.3em}
+%------------------------------------------------
+\entry
+{2007 \& 2009}
+{LAWRENCE LIVERMORE NATIONAL LABORATORY (LLNL)}
+{Livermore, CA, USA}
+{\emph{Research Scholar, Doctoral Studies} \\
+{\href{https://computation.llnl.gov/casc/}{Lawrence Livermore National Laboratory (LLNL), USA}}{}{} \\
+Automated source-to-source compiler transformations and program analysis of parallel C/C++ applications.}
+\vspace{0.3em}
+%------------------------------------------------
+\entry
+{2008}
+{IBM RESEARCH}
+{Haifa, Israel}
+{\emph{Research Scholar} \\
+{\href{http://www.haifa.il.ibm.com/}{IBM Haifa Research Laboratory, Israel}}{}{} \\
+Performance analysis tools for Java multithreaded applications on Linux platforms based on
+combined user- and kernel-space information.}
+\vspace{0.3em}
+%------------------------------------------------
+\entry
+{2007}
+{CERN}
+{Geneva, Switzerland}
+{\emph{Research Scholar} \\
+{\href{http://public.web.cern.ch/public/Welcome.html}{European Organization for Nuclear Research (CERN), Switzerland}}{}{} \\
+Nuclear physics computations on virtual machines using the BOINC Infrastructure for Network Computing.}
+%------------------------------------------------
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{awards}
+
+%\begin{entrylist}
+%------------------------------------------------
+%\entry
+%{2011}
+%{Postgraduate Scholarship}
+%{School of Business, The University of California}
+%{Awarded to the top student in their final year of a Bachelors degree.}
+%------------------------------------------------
+%\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	COMMUNICATION SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{communication skills}
+
+%\begin{entrylist}
+%------------------------------------------------
+%\entry
+%{2011}
+%{Oral Presentation}
+%{California Business Conference}
+%{Presented the research I conducted for my Masters of Commerce degree.}
+%------------------------------------------------
+%\entry
+%{2010}
+%{Poster}
+%{Annual Business Conference, Oregon}
+%{As part of the course work for BUS320, I created a poster analyzing several local businesses and presented this at a conference.}
+%------------------------------------------------
+%\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+% \section{interests}
+
+% \textbf{professional:} data analysis, company profiling, risk analysis, economics, web design, web app creation, software design, marketing \textbf{personal:} piano, chess, cooking, dancing, running
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\section{selected publications}
+
+
+\printbibsection{book}{books} % Print all books from the bibliography
+
+\begin{refsection} % This is a custom heading for those references marked as "inproceedings" but not containing "keyword=france"
+\nocite{*}
+\printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=subbibliography]
+\end{refsection}
+
+\begin{refsection} % This is a custom heading for those references marked as "inproceedings" and containing "keyword=france"
+\nocite{*}
+\printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=subbibliography]
+\end{refsection}
+
+\printbibsection{article}{article in peer-reviewed journal} % Print all articles from the bibliography
+
+\printbibsection{misc}{other publications} % Print all miscellaneous entries from the bibliography
+
+\printbibsection{report}{research reports} % Print all research reports from the bibliography
+
+%----------------------------------------------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+%	REFERENCES
+%----------------------------------------------------------------------------------------
+
+\section{references, research}
+
+% \section{Scientific References}
+{\color{orange}{\large{$\star$}}} \textbf{Dharmendra S. Modha} \\
+{IBM Fellow and Chief Scientist, IBM Research} \\
+{\href{http://researcher.watson.ibm.com/researcher/view.php?person=us-dmodha}{Cognitive Computing, IBM Research Laboratory San Jose, USA}}{}{}
+
+
+{\color{orange}{\large{$\star$}}} \textbf{John Shalf} \\
+{Research adviser, Lawrence Berkeley National Laboratory} \\
+{\href{http://crd.lbl.gov/about/staff/cds/john-shalf/}{Computer \& Data Sciences, Lawrence Berkeley National Laboratory (LBNL), USA}}{}{}
+
+
+{\color{orange}{\large{$\star$}}} \textbf{Dieter Kranzlm{\"u}ller} \\
+{Ph.D. thesis adviser} \\
+{\href{http://www.nm.ifi.lmu.de/~kranzlm}{Department of Computer Science, Ludwig-Maximilians University Munich, Germany}}{}{}
+
+
+{\color{orange}{\large{$\star$}}} \textbf{Martin Schulz} \\
+{Research adviser, LLNL} \\ 
+{\href{http://people.llnl.gov/schulz6}{Center for Applied Scientific Computing (CASC), Lawrence Livermore National Laboratory (LLNL), USA}}{}{}
+{}
+
+\end{document}

@@ -1,0 +1,1982 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \sortlist{entry}{chronological}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{2}
+  \sortlist{entry}{chronological}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{3}
+  \sortlist{entry}{chronological}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{4}
+  \sortlist{entry}{chronological}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{5}
+  \sortlist{entry}{chronological}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{6}
+  \sortlist{entry}{chronological}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{Preissl:2012:CSS:2388996.2389070}{inproceedings}{}
+      \name{labelname}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{9}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=f5d1d63d86e69e79fef8a198a821dfcd}{Wong}{W\bibinitperiod}{Theodore\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a5c63731f003509881bbc3b9be504f6}{Datta}{D\bibinitperiod}{Pallab}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=d59d12c946199906b3bd5de27d3b9198}{Flickner}{F\bibinitperiod}{Myron}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c9b73ba8b53ac19b790a08f252028ca5}{Singh}{S\bibinitperiod}{Raghavendra}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=9ace2cdc22be7e60ee30070b952dcf95}{Esser}{E\bibinitperiod}{Steven\bibnamedelima K.}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=25bff0d948828bb1413a2c550fde5146}{Risk}{R\bibinitperiod}{William\bibnamedelima P.}{W\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=ea7b65be7ed3b8530986ca1ecfbe4e6b}{Simon}{S\bibinitperiod}{Horst\bibnamedelima D.}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=bc1d67ea17c5a0407ce62592ab0fcea2}{Modha}{M\bibinitperiod}{Dharmendra\bibnamedelima S.}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Salt Lake City, Utah}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society Press}%
+      }
+      \strng{namehash}{dec714d947c2751fecc1c19231c5d470}
+      \strng{fullhash}{dec714d947c2751fecc1c19231c5d470}
+      \field{sortinit}{2}
+      \field{labeltitle}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{booktitle}{Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, {\textit SC'12}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4673-0804-5}
+      \field{series}{SC '12}
+      \field{title}{Compass: A Scalable Simulator for an Architecture for Cognitive Computing}
+      \field{year}{2012}
+      \field{pages}{54:1\bibrangedash 54:11}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=2388996.2389070
+      \endverb
+    \endentry
+    \entry{Preissl:2011:MGA:2063384.2071033}{inproceedings}{}
+      \name{labelname}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=cea8f0b2705ca318b68e13c1da20b99b}{Long}{L\bibinitperiod}{Bill}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=8411e32c5282692ec8fb33ae8efc7b3a}{Shalf}{S\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Seattle, Washington}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{89917fa64a344967168d58a2b4cb1c27}
+      \strng{fullhash}{89917fa64a344967168d58a2b4cb1c27}
+      \field{sortinit}{2}
+      \field{labeltitle}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{booktitle}{Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis, {\textit SC'11}. \textbf{Best paper award finalist}}
+      \field{isbn}{978-1-4503-0771-0}
+      \field{series}{SC '11}
+      \field{title}{Multithreaded Global Address Space Communication Techniques for Gyrokinetic Fusion Applications on Ultra-Scale Platforms}
+      \field{year}{2011}
+      \field{pages}{78:1\bibrangedash 78:11}
+      \verb{doi}
+      \verb 10.1145/2063384.2071033
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/2063384.2071033
+      \endverb
+    \endentry
+    \entry{Preissl:CUG}{article}{}
+      \name{labelname}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{11}{}{%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=3244f7a6fcbd62d27ee69efc5c5ddb35}{Kim}{K\bibinitperiod}{Jihan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7cf4056e91d76efefbd8dbb7b2ff00a4}{Eder}{E\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=2192f8db2c823a87cfb84943a5f2d4ad}{Fisher}{F\bibinitperiod}{Aaron}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=19449b093b6a538dcbaae7e2cbe33bbe}{Masters}{M\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=ae3c7aa0b198cf56395962abfb3164e9}{Mlaker}{M\bibinitperiod}{Velimir}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=3622a4f34030ecb898ef4af8af560e21}{Ethier}{E\bibinitperiod}{Stephane}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=d536486f7542afd841ea9dae3c1b0dd5}{Head-Gordon}{H\bibinithyphendelim G\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \strng{namehash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \strng{fullhash}{e5f3d35e5ffbb647e66c398fd92af19d}
+      \field{sortinit}{2}
+      \field{labeltitle}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{journaltitle}{CUG}
+      \field{month}{05}
+      \field{title}{Application Acceleration on Current and Future Cray Platforms, \textbf{Best paper award winner}}
+      \field{year}{2010}
+    \endentry
+    \entry{Preissl:2010:OCC:1938482.1938492}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=7698969a603f3495fb21166c26386f30}{Preissl}{P\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=fd799e09f3060b73617dbc0eb2cc2f14}{Koniges}{K\bibinitperiod}{Alice}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ecbb812511fb976ce54fb6219358e14b}{Ethier}{E\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=a1b010d50f7ed63c95be4df75dd109cb}{Wang}{W\bibinitperiod}{Weixing}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=a69b91b28a73d3569e9a4c4bef207862}{Wichmann}{W\bibinitperiod}{Nathan}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam, The Netherlands, The Netherlands}%
+      }
+      \list{publisher}{1}{%
+        {IOS Press}%
+      }
+      \strng{namehash}{3e7d07970cd18fabaa7e73856de5407c}
+      \strng{fullhash}{3e7d07970cd18fabaa7e73856de5407c}
+      \field{sortinit}{2}
+      \field{labeltitle}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{issn}{1058-9244}
+      \field{journaltitle}{Sci. Program.}
+      \field{month}{08}
+      \field{number}{3-4}
+      \field{title}{Overlapping Communication with Computation Using OpenMP Tasks on the GTS Magnetic Fusion Code}
+      \field{volume}{18}
+      \field{year}{2010}
+      \field{pages}{139\bibrangedash 151}
+      \verb{url}
+      \verb http://dl.acm.org/citation.cfm?id=1938482.1938492
+      \endverb
+      \keyw{GTS,OpenMP task,communication overlap,hybrid MPI and OpenMP computing}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
